@@ -1,0 +1,1 @@
+python3 ./hw_test.py $1 $2
