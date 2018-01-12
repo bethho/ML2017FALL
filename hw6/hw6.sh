@@ -1,0 +1,1 @@
+python3 hw6.py --image_file $1 --test_file $2 --result $3

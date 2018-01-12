@@ -1,0 +1,1 @@
+python3 hw6_PCA_ver2.py --img_dir $1 --img_file $2
